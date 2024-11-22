@@ -1,0 +1,10 @@
+{
+    "correct_user_email_password": {
+        "email": "jdoe2024@gmail.com",
+        "password": "Password123"
+    },
+    "wrong_user_email_password": {
+        "email": "tim_smith99@gmail.com",
+        "password": "Zxcvb123@"
+    }
+}

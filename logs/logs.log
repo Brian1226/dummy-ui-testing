@@ -1,0 +1,39 @@
+11/21/2024 05:49:44 PM - utils.logger - home_page.py - open - INFO - Opened home page
+11/21/2024 05:49:45 PM - utils.logger - home_page.py - click_create_account - INFO - Clicked on 'Create an Account' link
+11/21/2024 05:49:47 PM - utils.logger - registration_page.py - register_user - INFO - Inputted registration details - First Name: Allison, Last Name: Thompson, Email: charles68@example.org, Password: _e#4Ulm%+(
+11/21/2024 05:49:50 PM - utils.logger - registration_page.py - register_user - INFO - Submitted registration form
+11/21/2024 05:49:53 PM - utils.logger - account_page.py - click_men_products - INFO - Clicked on 'Men' link
+11/21/2024 05:49:54 PM - utils.logger - men_products_page.py - click_men_jackets - INFO - Clicked on 'Jackets' link
+11/21/2024 05:49:55 PM - utils.logger - men_jackets_page.py - buy_jacket - INFO - Selected 'XS' size and 'Blue' color for a jacket
+11/21/2024 05:49:55 PM - utils.logger - men_jackets_page.py - buy_jacket - INFO - Clicked on 'Add to Cart' button
+11/21/2024 05:49:56 PM - utils.logger - men_jackets_page.py - show_cart - INFO - Clicked on cart icon to show cart
+11/21/2024 05:49:58 PM - utils.logger - men_jackets_page.py - checkout - INFO - Clicked on 'Proceed to Checkout' button
+11/21/2024 05:49:59 PM - utils.logger - shipping_page.py - enter_shipping_details - INFO - Inputted shipping details - Address: 52462 David Mews Suite 464
+South Matthew, SD 01774, City: Lake Darrell, State: Illinois, Zip Code: 10227, Country: United States, Phone Number: 768-521-4219
+11/21/2024 05:49:59 PM - utils.logger - shipping_page.py - select_shipping_method - INFO - Selected shipping method: flatrate_flatrate
+11/21/2024 05:50:00 PM - utils.logger - shipping_page.py - click_next_button - INFO - Clicked on 'Next' button
+11/21/2024 05:50:01 PM - utils.logger - payment_page.py - place_order - INFO - Clicked on 'Place Order' button
+11/21/2024 05:50:07 PM - utils.logger - confirmation_page.py - continue_shopping - INFO - Clicked on 'Continue Shopping' button
+11/21/2024 05:50:13 PM - utils.logger - login_page.py - open - INFO - Opened login page
+11/21/2024 05:50:13 PM - utils.logger - login_page.py - login_user - INFO - Inputted login details - Email: jdoe2024@gmail.com, Password: Password123
+11/21/2024 05:50:16 PM - utils.logger - login_page.py - login_user - INFO - Submitted login form
+11/21/2024 05:50:16 PM - utils.logger - home_page.py - get_welcome_message - INFO - Get welcome message: Welcome, Brian Doe!
+11/21/2024 05:50:21 PM - utils.logger - login_page.py - open - INFO - Opened login page
+11/21/2024 05:50:22 PM - utils.logger - login_page.py - login_user - INFO - Inputted login details - Email: tim_smith99@gmail.com, Password: Zxcvb123@
+11/21/2024 05:50:25 PM - utils.logger - login_page.py - login_user - INFO - Submitted login form
+11/21/2024 05:50:25 PM - utils.logger - login_page.py - get_login_error_message - INFO - Get error message: The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.
+11/21/2024 05:50:30 PM - utils.logger - reset_password_page.py - open - INFO - Opened reset password page
+11/21/2024 05:50:30 PM - utils.logger - reset_password_page.py - reset_password - INFO - Inputted email to reset password - Email: jdoe2024@gmail.com
+11/21/2024 05:50:33 PM - utils.logger - reset_password_page.py - reset_password - INFO - Submitted reset password form
+11/21/2024 05:50:34 PM - utils.logger - login_page.py - get_reset_password_success_message - INFO - Get reset password success message: If there is an account associated with jdoe2024@gmail.com you will receive an email with a link to reset your password.
+11/21/2024 05:50:39 PM - utils.logger - reset_password_page.py - open - INFO - Opened reset password page
+11/21/2024 05:50:39 PM - utils.logger - reset_password_page.py - reset_password - INFO - Inputted email to reset password - Email: 
+11/21/2024 05:50:39 PM - utils.logger - reset_password_page.py - reset_password - INFO - Submitted reset password form
+11/21/2024 05:50:39 PM - utils.logger - reset_password_page.py - get_required_field_message - INFO - Get required field message: This is a required field.
+11/21/2024 05:50:44 PM - utils.logger - registration_page.py - open - INFO - Opened registration page
+11/21/2024 05:50:45 PM - utils.logger - registration_page.py - register_user - INFO - Inputted registration details - First Name: Kevin, Last Name: Gross, Email: bmartinez@example.net, Password: %uoXflo4C7
+11/21/2024 05:50:50 PM - utils.logger - registration_page.py - register_user - INFO - Submitted registration form
+11/21/2024 05:50:51 PM - utils.logger - account_page.py - get_registration_success_message - INFO - Get registration success message: Thank you for registering with Main Website Store.
+11/21/2024 05:50:56 PM - utils.logger - registration_page.py - open - INFO - Opened registration page
+11/21/2024 05:50:56 PM - utils.logger - registration_page.py - register_user - INFO - Inputted registration details - First Name: John, Last Name: Doe, Email: jdoe2024@gmail.com, Password: Zxcvb123@
+11/21/2024 05:50:58 PM - utils.logger - registration_page.py - register_user - INFO - Submitted registration form
